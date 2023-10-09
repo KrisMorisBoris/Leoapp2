@@ -1,0 +1,10 @@
+{
+    "program": "greetings.aleo",
+    "version": "0.0.1",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkpJMgSt3BAtUqrMipncZpFsfXi8NYDaSW13zDGc",
+        "address": "aleo1pzvkkeahtcl9axfm60lgjv80q8zfttpkujm7qgf89a2fzjty9uxqkv38ka"
+    },
+    "license": "MIT"
+}
